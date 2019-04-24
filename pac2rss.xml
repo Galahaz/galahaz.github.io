@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+	<channel>
+		<title>Canal de Futbol</title>
+		<link>http://www.ecosdelbalon.com/</link>
+		<description>Noticias y analisis de futbol</description>
+
+		<item>
+			<title>Iago Aspas: Milagro</title>
+			<link>http://www.ecosdelbalon.com/2019/04/analisis-tactico-iago-aspas-celta-de-vigo-fran-escriba/</link>
+			<description>Analisis tactico del celta de Vigo</description>	
+		</item>
+
+		<item>
+			<title>El joker desde la izquierda</title>
+			<link>http://www.ecosdelbalon.com/2019/04/encaje-de-dembele-en-la-izquierda-papel-de-valverde/</link>
+			<description>Analisis del encaje de dembele en el Barcelona</description>	
+		</item>
+
+		<item>
+			<title>Benzema sigue siendo el unico</title>
+			<link>http://www.ecosdelbalon.com/2019/04/analisis-real-madrid-3-athletic-de-bilbao-0-papel-de-benzema/</link>
+			<description>Analisis del real madrid 3 athletic 0</description>	
+		</item>
+
+		<item>
+			<title>El justiciero de Anoeta</title>
+			<link>http://www.ecosdelbalon.com/2019/04/analisis-tactico-rol-mikel-oyarzabal-real-sociedad-liga-santander/</link>
+			<description>Analisis del rol tactico de Mikel Oyarzabal</description>	
+		</item>
+
+		<item>
+			<title>Para el album de la champions</title>
+			<link>http://www.ecosdelbalon.com/2019/04/analisis-tactico-manchester-city-4-tottenham-3-champions-league/</link>
+			<description>Analisis del City 4 Tottenham 3</description>	
+		</item>
+
+	</channel>
+</rss>
+
